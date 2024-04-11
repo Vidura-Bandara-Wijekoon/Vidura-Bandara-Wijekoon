@@ -62,3 +62,19 @@
   <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vidura-bandara-wijekoon&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
 </table>
+
+## 366 AI Journey Newsletter
+
+I document my daily insights and discoveries in AI through my "366 AI Journey" newsletter on LinkedIn. Every day is a new opportunity to learn something new about AI, and I share this journey with a growing community of enthusiasts and professionals.
+
+You can join us and stay updated with the latest in AI by subscribing to the newsletter and engaging with the content. Whether you're a seasoned expert or just starting out, there's something for everyone in the 366-day adventure of artificial intelligence.
+
+[Subscribe to the 366 AI Journey Newsletter]([https://www.linkedin.com/newsletters/your-newsletter-id](https://www.linkedin.com/newsletters/7169230815950782464/))
+
+<p align="center">
+  <a href="https://www.linkedin.com/newsletters/your-newsletter-id">
+    <img src="https://github.com/Vidura-Bandara-Wijekoon/Vidura-Bandara-Wijekoon/blob/main/1709277818536.jpg" alt="366 AI Journey Newsletter" />
+  </a>
+</p>
+
+
